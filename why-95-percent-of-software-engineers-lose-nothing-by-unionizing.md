@@ -1,8 +1,11 @@
-Why 95 Percent of Software Engineers Lose Nothing By Unionizing
-Michael O Church May 31, 2018
-Should software engineers unionize?
+# Why 95 Percent of Software Engineers Lose Nothing By Unionizing
+Michael O Church,
 
-https://michaelochurch.wordpress.com/2018/05/31/why-95-percent-of-software-engineers-lose-nothing-by-unionizing/
+May 31, 2018
+
+[source](https://michaelochurch.wordpress.com/2018/05/31/why-95-percent-of-software-engineers-lose-nothing-by-unionizing/)
+
+#### Should software engineers unionize?
 
 I can’t give a simple answer to this. There are advantages and disadvantages to enrolling in a collective bargaining arrangement. If the disadvantages didn’t exist, or weren’t considerable in some situations, everyone would unionize. So, we need to take both sides seriously.
 
